@@ -1,0 +1,108 @@
+# 🎬 DevMovies
+
+Clone da interface da Netflix desenvolvido com React.
+
+---
+
+## 🚀 Sobre o projeto
+
+O DevMovies é uma aplicação web inspirada na interface da Netflix, criada para praticar desenvolvimento Front-end utilizando React.
+
+O projeto exibe filmes e séries em cards estilizados com layout moderno e responsivo.
+
+---
+
+## ✨ Funcionalidades
+
+- 🎥 Catálogo de filmes
+- 📱 Interface responsiva
+- 🖼 Cards estilizados
+- ⚡ Navegação rápida
+- 🎨 Layout inspirado na Netflix
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- React
+- JavaScript
+- CSS
+- Vite
+- TMDB API
+
+---
+
+## 📂 Estrutura do projeto
+
+```bash
+DevMovies/
+ ├── src/
+ │    ├── App.jsx
+ │    ├── App.css
+ │    └── components/
+ │         └── MovieCard.jsx
+ │
+ ├── public/
+ ├── package.json
+ └── vite.config.js
+```
+
+---
+
+## ▶️ Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone URL_DO_REPOSITORIO
+```
+
+Entre na pasta:
+
+```bash
+cd devmovies-react
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Preview
+
+Adicione prints do projeto aqui.
+
+Exemplo:
+
+- Tela inicial
+- Cards de filmes
+- Interface responsiva
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento desse projeto foram praticados:
+
+- Componentização com React
+- Manipulação de listas
+- Organização de interface
+- Estilização com CSS
+- Estruturação de projetos Front-end
+
+---
+
+## 👨‍💻 Autor
+
+Hugo Lins
+
+Desenvolvedor em formação focado em React, Node.js e Flutter.
